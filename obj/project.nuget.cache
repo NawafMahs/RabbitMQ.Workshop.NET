@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5H9Jubr+WA=",
+  "success": true,
+  "projectFilePath": "/media/windows/MIN/Projects/RabbitMQTTDemo/RabbitMQTTDemo.csproj",
+  "expectedPackageFiles": [
+    "/home/swb/.nuget/packages/rabbitmq.client/7.1.2/rabbitmq.client.7.1.2.nupkg.sha512",
+    "/home/swb/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/home/swb/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
